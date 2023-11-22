@@ -1,0 +1,25 @@
+.head {
+  background-color: #ffc2cc9a;
+  border: 1px solid rgba(128, 128, 128, 0.504);
+}
+.content {
+  border: 1px solid gray;
+}
+
+.hidden {
+  display: none;
+}
+.active {
+  display: block;
+}
+.btn-background {
+  background-color: rgba(255, 255, 255, 0.614) !important;
+}
+
+/*
+🔑 ”css display property”
+🔑 ”css display none”
+🔑 ”js dom select element”
+🔑 ”js remove class from element”
+🔑 ”js add class to element”
+*/
